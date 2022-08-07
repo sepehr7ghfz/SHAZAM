@@ -1,0 +1,6 @@
+numpy>=1
+pyaudio
+wave
+pydub
+scipy
+matplotlib
